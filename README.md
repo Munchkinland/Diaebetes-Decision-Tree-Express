@@ -2,13 +2,13 @@
  
 ![image](https://github.com/Munchkinland/Diaebetes-Decision-Tree-Express/assets/92251234/40bf67ef-89dc-4fbc-b482-934255f8f447)
 
-✅## Overview
+✅Overview
 
 This project aims to predict diabetes based on diagnostic measures. The dataset comes from the National Institute of Diabetes and Digestive and Kidney Diseases.
 
 This is an express classifier without Descriptive Analysis neither EDA nor Diagnostic
 
-✅## Hypothesis
+✅Hypothesis
 
 We hypothesize that certain values or combinations of values in the variables (Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age) may be associated with an increased risk of diabetes. We will perform statistical analyses, such as regressions and significance tests, to evaluate the associations between these variables and the outcome variable (Outcome).
 
