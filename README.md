@@ -2,6 +2,8 @@
  
 ![image](https://github.com/Munchkinland/Diaebetes-Decision-Tree-Express/assets/92251234/40bf67ef-89dc-4fbc-b482-934255f8f447)
 
+![image](https://github.com/Munchkinland/Diaebetes-Decision-Tree-Express/assets/92251234/bab45f60-717e-492e-b0f0-e7eb8127b77c)
+
 ✅## Overview
 
 This project aims to predict diabetes based on diagnostic measures. The dataset comes from the National Institute of Diabetes and Digestive and Kidney Diseases.
