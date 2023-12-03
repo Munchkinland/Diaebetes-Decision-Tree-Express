@@ -1,4 +1,4 @@
- Decision Tree Classifier Express Building in Scikit-learn Data Camp Template Interpretation (could be performance better, there is just a quick sight)
+ Decision Tree Classifier Express Building in Scikit-learn Data Camp (Beginner LeveL)
  
 ![image](https://github.com/Munchkinland/Diaebetes-Decision-Tree-Express/assets/92251234/40bf67ef-89dc-4fbc-b482-934255f8f447)
 
@@ -50,4 +50,8 @@ Generate requirements.txt:
 
 A requirements.txt file is generated containing project dependencies so that others can replicate the development environment.
 In summary, the project addresses the construction of a decision tree classifier for diabetes prediction, covering data loading, model training, evaluation, and optimization steps. The ultimate goal is to provide a comprehensive set of steps and tools to address similar classification problems in the future.
+
+Disclaimer 👉 There is just a quick sight, an express interpretation, of course it could be performance better. 
+ 
+ 
 
